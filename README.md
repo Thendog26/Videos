@@ -1,4 +1,7 @@
 A React application that uses the YouTube API to request video data via a Search Bar submit event, then uses that data to display the top 5 results on the side which can then be displayed via a Click event as an embeded video. This was a project of mine I made during a Udemy React course, found [here](https://www.udemy.com/course/react-redux/).
+
+NOTE: You need axios for this project to run properly.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
